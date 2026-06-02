@@ -1,0 +1,16 @@
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Entornos virtuales (por si creas uno luego)
+venv/
+.venv/
+env/
+
+# Archivos del sistema u ocultos de editores
+.DS_Store
+Thumbs.db
+.vscode/
